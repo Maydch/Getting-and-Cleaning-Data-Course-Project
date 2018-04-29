@@ -2,6 +2,7 @@ TidyDataSet.txt
 
 The original data set is from Human Activity Recognition Using Smartphones Dataset.
 "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+
 The TidyDataSet.txt is generate by following steps:
 1. Extract data set from zip file including activity_labels.txt, features.txt, test/X_test.txt, test/Y_test.txt, test/subject_test.txt, train/X_train.txt, train/Y_train.txt,train/subject_train.txt.
 2. Grouped data to make a full data set, and rename columns with descriptive column names.
